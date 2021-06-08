@@ -1,3 +1,2 @@
-name = input ("enetr your name")
-message = ("Welcome")
-print (message , name)
+name = input ("enter your name")
+print ("welcome",name)
